@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+* {
+	/* border: 1px solid black; */
+	overflow: hidden;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+	background: black;
+}
